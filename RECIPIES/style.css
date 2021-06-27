@@ -1,0 +1,54 @@
+.break
+{
+    height:200px;
+    width:25%;
+}
+
+
+.lunch
+
+{
+    height:200px;
+    width:25%;
+}
+
+img{
+
+    height:200px;
+    width:20%;
+    margin-left: 10px;
+}
+h1
+{
+    text-align: center;
+    color: rgb(7, 17, 9);
+}
+
+.start
+{
+    background-color: rgb(184, 161, 226);
+}
+body{
+    background-color:rgb(241, 236, 231) ;
+}
+.container
+{
+    background-color: white;
+}
+a:hover{
+    color: green;
+}
+input{
+    border:2px solid black;
+    width: 25%;
+    height: 30px;
+}
+select{
+    width: 20%;
+    background-color: honeydew;
+    border:2px solid black;
+   
+    height: 30px;
+
+}
+
